@@ -1,4 +1,4 @@
-# Primer-Proyecto-DS
+# Primer-Proyecto-Data-Science
 Ejemplo de Introducción
 Ejemplo básico en Python Modelación con algoritmos de ML
 ========================================================
